@@ -1,0 +1,23 @@
+   {
+    "name": "Wolv Themes",
+    "short_name": "wolvthemes",
+    "icons": [
+        {
+            "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjNNnTyWO3WU1W9aO63DLrctT7vJ4n9qNb79pUGeMt7ZzdJqRfhxug7lDSNEM8AnnhXq5coLUk9b7snM5zEmw4pMvCxC6mb_8-kV2hEnRhxY9jXG4jSf_5uShpmCcpWnaU6-Ef1zgM6f3XJ93F2fYZrgD5QIUzOhxVWNJZksYjoe4RMD88a_YqZUtCcDA",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/a/AVvXsEhrXH8eXpAtVmt18tF9jGqAFLv-9LO2AF9MJndm4sXcJv33nt0UYTUGEV-V_oO37EZmJcUcyX0DnCWjSPzu9ghgUZJyWFu61oL68001F-_ayRSKnLOXnYfIi2MmMWjL_bbJK00uec4tY-Wf4i0lzQMGSYmkNWw5dMDwg1RuSen7yGV-u_VVTzV3IbdcOg",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://www.wolvthemes.eu.org"
+}
